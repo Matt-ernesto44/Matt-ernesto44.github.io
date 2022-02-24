@@ -1,5 +1,5 @@
 <style>
-header{
+Header{
   font-family: fantasy;
   text-align: center;
   font-weight: bold;
@@ -10,9 +10,10 @@ Main{
   text-align: center;
   font-family: fantasy;
   background-color: lightblue;
-   border: 5px dashed blue;
+  border: 5px dashed blue;
 }
 #wantedlist{
   font-family: Arial;
   text-align: center;
+}
 </style>
