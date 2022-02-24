@@ -9,11 +9,13 @@ h1{
 header{
   font-family: fantasy;
   text-align: center;
-  background-color: blue;
+  background-color: lightblue;
+ c
 }
 Main{
   text-align: center;
   font-family: fantasy;
   background-color: lightblue;
+   border: 5px dashed blue;
 }
 </style>
