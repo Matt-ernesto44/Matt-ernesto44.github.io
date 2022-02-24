@@ -1,14 +1,18 @@
 <style>
-Header
-{
+h1{
   font-family: fantasy;
   font-weight: bold;
   text-align: center;
   background-color: blue;
   border: 5px dashed darkblue;
 }
-Main
-{
+h2{
+  font-family: fantasy;
+  font-weight: bold;
+  text-align: center;
+  background-color: blue;
+}
+Main{
   text-align: center;
   font-family: fantasy;
   background-color: lightblue;
