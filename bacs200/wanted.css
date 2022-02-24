@@ -3,11 +3,11 @@ header{
   font-family: fantasy;
   font-weight: bold;
   text-align: center;
-  background-color: green;
-  border: 5px dashed darkgreen;
+  background-color: blue;
+  border: 5px dashed darkblue;
 }
 Main{
   text-align: center;
   font-family: fantasy;
-  background-color: lightgreen;
+  background-color: lightblue;
 }
