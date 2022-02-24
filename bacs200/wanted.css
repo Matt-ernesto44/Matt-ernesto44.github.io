@@ -1,16 +1,11 @@
 <style>
-h1{
+header
+{
   font-family: fantasy;
+  text-align: center;
   font-weight: bold;
-  text-align: center;
-  background-color: blue;
-  border: 5px dashed darkblue;
-}
-header{
-  font-family: fantasy;
-  text-align: center;
   background-color: lightblue;
- c
+  border: 5px dashed darkblue;
 }
 Main{
   text-align: center;
