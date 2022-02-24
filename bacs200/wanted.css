@@ -1,12 +1,14 @@
 <style>
-header{
+Header
+{
   font-family: fantasy;
   font-weight: bold;
   text-align: center;
   background-color: blue;
   border: 5px dashed darkblue;
 }
-Main{
+Main
+{
   text-align: center;
   font-family: fantasy;
   background-color: lightblue;
