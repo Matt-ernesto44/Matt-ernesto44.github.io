@@ -10,10 +10,11 @@ header
 
 {
 
-    background-color: green;
-
+    background-color: lightgreen;
     font-size: 30px;
-
+	border-style: ridge;
+	border-color: green;
+	border-width: medium;
 }
 
 tfoot
