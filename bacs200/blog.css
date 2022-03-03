@@ -15,6 +15,7 @@ header
 	border-style: ridge;
 	border-color: green;
 	border-width: medium;
+	text-align: center;
 }
 
 tfoot
