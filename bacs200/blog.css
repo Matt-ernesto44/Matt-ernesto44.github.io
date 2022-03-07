@@ -190,11 +190,11 @@ h2+p::first-letter {
 
 color: white;
 
-background-color: lightgreen;
+background-color: darkgreen;
 
 border-radius: 2px;
 
-box-shadow: 3px 3px 0 darkgreen;
+box-shadow: 3px 3px 0 lightgreen;
 
 font-size: 250%;
 
