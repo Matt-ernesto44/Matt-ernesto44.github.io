@@ -1,0 +1,42 @@
+<style>
+.aligncenter
+{
+	text-align: center;
+}
+
+.implication
+{
+text-align: justified;
+}
+
+header
+{
+background-color: lightgreen;
+font-size: 30px;
+border-style: ridge;
+order-color: green;
+border-width: medium;
+text-align: center;
+}
+
+tfoot
+{
+background-color: #3f87a6;
+color: #fff;
+}
+
+footer {
+font-size: 15pt;
+color:gray;
+font-style:italic;
+font-family:Verdana, sans-serif;
+}
+
+main
+{
+color: black;
+font: Georgia (serif);
+font-weight: normal;
+font-style: normal
+}
+</style>
