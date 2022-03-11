@@ -4,6 +4,12 @@
 	text-align: center;
 }
 
+.centerImage
+{
+ text-align:center;
+ display:block;
+}
+
 .implication
 {
 text-align: justified;
@@ -37,7 +43,8 @@ main
 color: black;
 font: Georgia (serif);
 font-weight: normal;
-font-style: normal
+font-style: normal;
+text-align: center;
 }
 
 h1 
@@ -50,6 +57,7 @@ margin-left: 0px;
 margin-right: 4px;
 background-color: lightgreen;
 text-transform: uppercase;
+text-align: center;
 }
 
 h2+p::first-letter {
