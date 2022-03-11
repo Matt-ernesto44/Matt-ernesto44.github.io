@@ -39,4 +39,25 @@ font: Georgia (serif);
 font-weight: normal;
 font-style: normal
 }
+
+h1 
+{
+color: darkgreen;
+font-family: arial, sans-serif;
+font-size: 12px;
+font-weight: bold;
+margin-left: 0px;
+margin-right: 4px;
+}
+
+h2+p::first-letter {
+color: white;
+background-color: darkgreen;
+border-radius: 2px;
+box-shadow: 3px 3px 0 lightgreen;
+font-size: 250%;
+padding: 6px 3px;
+margin-right: 6px;
+float: left;
+}
 </style>
