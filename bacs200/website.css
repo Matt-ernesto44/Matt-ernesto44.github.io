@@ -112,4 +112,9 @@ body{
 section{
   margin: 50px;
 }
+
+iframe{
+frameborder: 0;
+scrolling: no;
+}
 </style>
