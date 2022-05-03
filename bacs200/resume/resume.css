@@ -65,4 +65,8 @@ section{
 ul{
 	text-align: left;
 	list-style-position: inside;}
+div
+{
+	text-align: center;
+}
 </style>
