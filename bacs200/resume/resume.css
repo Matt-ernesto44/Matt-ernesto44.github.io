@@ -1,6 +1,10 @@
 <style>
 body
 {
+color: black;
+font: Roboto (serif);
+font-weight: normal;
+font-style: normal;
 text-align: left;
 }
 
@@ -25,7 +29,7 @@ font-family:Verdana, sans-serif;
 main
 {
 color: black;
-font: Georgia (serif);
+font: Roboto (serif);
 font-weight: normal;
 font-style: normal;
 }
